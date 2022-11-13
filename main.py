@@ -10,7 +10,7 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 
-ggform="Goo.gle form"
+ggform="Goo.gle form" #Omitted real URL for security reasons
 chromium_path="/snap/bin/chromium"
 my_name=["Second person's name", "first person's name"]
 my_location="Smart Start Can."
